@@ -52,6 +52,12 @@ I'm a first-year data science student at the University of Chicago with experien
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
 </p>
 
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+</p>
+
 ### 💻 Software and tools
 
 <p>
