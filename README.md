@@ -1,5 +1,9 @@
 # Hi there, I'm Merina Diaz! 👋
 
+<a href="https://www.linkedin.com/in/merina-diaz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+&nbsp;
+
+
 ## About Me 🚀
 
 I'm a first-year data science student at the University of Chicago with experience in data visualization and machine learning. As a student, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. Outside of programming, I love learning languages, martial arts, guitar, and graphic design.
