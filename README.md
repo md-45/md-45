@@ -1,7 +1,5 @@
 # Hi there, I'm Merina Diaz! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I'm a first-year data science student at the University of Chicago with experience in data visualization and machine learning. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
