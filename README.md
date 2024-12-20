@@ -69,10 +69,3 @@ I'm a first-year data science student at the University of Chicago with experien
     <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-## Get in Touch 📬
-
-[Personal Website](https://be62a54e-28bd-478c-973d-b81adeddcc12-00-pzpm26duxfqd.janeway.replit.dev/)
-
-
-
