@@ -14,7 +14,7 @@ I'm a first-year data science student at the University of Chicago with experien
 - 🌱 Currently learning: R, Swift, and hierarchical clustering
 - 🌍 Human Languages: French
 - 📫 How to reach me: merina.diaz@uchicago.edu
-- 📝 [Resume](https://uchicagoedu-my.sharepoint.com/:w:/g/personal/merinad_uchicago_edu/Ea3h8B3DXBpGg7uXk5IXhNgBLjerL5FEx_EsVopNiYjjcw?e=6vYz3O).
+- 📝 [Resume](https://drive.google.com/file/d/18sX3ECldmdhjbcPZRt7fTjHh6NvMGF2X/view?usp=sharing).
 
 ## Featured Projects 💻
 
