@@ -71,7 +71,7 @@ I'm a first-year data science student at the University of Chicago with experien
 
 ## Get in Touch 📬
 
-[Personal Website](file:///C:/Users/merin/Downloads/Merina's%20Personal%20Website.html)
+[Personal Website]([https://github.com/md-45/CS_IA/tree/main](https://be62a54e-28bd-478c-973d-b81adeddcc12-00-pzpm26duxfqd.janeway.replit.dev/))
 
 
 
