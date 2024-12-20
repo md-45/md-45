@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/merina-diaz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://replit.com/@md-4516/Merina-Ds-Personal-Website?v=1" target="_blank"><img align="center" src="![11f2fd963a2028fa67ce38ffe0e92bc5-removebg-preview](https://github.com/user-attachments/assets/54da6f09-f4a9-4696-b0f9-76404d633c5e)" height="30" width="40" /></a>
+<a href="https://replit.com/@md-4516/Merina-Ds-Personal-Website?v=1" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/1a9b97f8-de6b-40fe-beaf-ed43a3346042" height="30" width="40" /></a>
 &nbsp;
 
 ## About Me 🚀
