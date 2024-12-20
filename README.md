@@ -9,7 +9,7 @@
 I'm a first-year data science student at the University of Chicago with experience in data visualization and machine learning. As a student, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. Outside of programming, I love learning languages, martial arts, guitar, and graphic design.
 
 - 👨‍🎓 I'm a **First-Year UChicago Student**
-- 🔭 Working on: Gamified learning platform (https://github.com/AswinBarath/ju-query)
+- 🔭 Working on: Gamified learning platform
 - 🌱 Currently learning: R, Swift, and hierarchical clustering
 - 🌍 Human Languages: French
 - 📫 How to reach me: merina.diaz@uchicago.edu
@@ -17,17 +17,17 @@ I'm a first-year data science student at the University of Chicago with experien
 
 ## Featured Projects 💻
 
-### [Genshin Impact Team Classifier](project_1_link)
+### [Genshin Impact Team Classifier](https://replit.com/@md-4516/Genshin-ML)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![G_ML_hierarch](https://github.com/user-attachments/assets/7213ded0-bc5e-41a3-98f7-3c740421532d)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Genshin Impact Team Classifier]** is a a machine learning classifier that takes character data from the 2020 video game, Genshin Impact and classifies characters as a DPS, sub DPS, or support. Then by using the classified characters, the model randomly generates a team and classifies how quality the team is. I built it with Python, SciPy, and Scikit-learn. This project demonstrates my ability to utilize machine learning libraries, classify large datasets, and generate and interpret a dendrogram. You can check out the repository [here](https://github.com/md-45/Genshin_ML/tree/main).
 
-### [Computer Science IA](project_2_link)
+### [Computer Science IA](https://replit.com/@md-4516/IA-Cover-Page)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Data_Structures](https://github.com/user-attachments/assets/25250c26-bcbf-4d2e-b958-4e4e3d769666)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**IB Computer Science HL IA** is a the reporting of my IB Computer Science HL internal assessment, the time management app called ChronoStress. I built it with Python (MatPlotLib, Pandas), Swift (SwiftUI), and HTML. This project showcases my skills in interoperable Python and Swift, combining two data structures, configuring system files, configuring environmental variables, utilizing property wrappers, and using unwrapped optionals. Additionally, I learned how to design and report on a programming project. You can check out the repository [here](https://github.com/md-45/CS_IA/tree/main).
 
 ## 🛠️ My Favourite tools
 
