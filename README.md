@@ -71,8 +71,7 @@ I'm a first-year data science student at the University of Chicago with experien
 
 ## Get in Touch 📬
 
-- **[Personal Website]**(file:///C:/Users/merin/Downloads/Merina's%20Personal%20Website.html)
-- **[LinkedIn]**(https://www.linkedin.com/in/merina-diaz/)
+- [Personal Website](file:///C:/Users/merin/Downloads/Merina's%20Personal%20Website.html)
 
 
 
