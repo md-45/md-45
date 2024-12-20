@@ -21,7 +21,7 @@ I'm a first-year data science student at the University of Chicago with experien
 
 ![G_ML_hierarch](https://github.com/user-attachments/assets/7213ded0-bc5e-41a3-98f7-3c740421532d)
 
-**[Genshin Impact Team Classifier]** is a a machine learning classifier that takes character data from the 2020 video game, Genshin Impact and classifies characters as a DPS, sub DPS, or support. Then by using the classified characters, the model randomly generates a team and classifies how quality the team is. I built it with Python, SciPy, and Scikit-learn. This project demonstrates my ability to utilize machine learning libraries, classify large datasets, and generate and interpret a dendrogram. You can check out the repository [here](https://github.com/md-45/Genshin_ML/tree/main).
+**Genshin Impact Team Classifier** is a a machine learning classifier that takes character data from the 2020 video game, Genshin Impact and classifies characters as a DPS, sub DPS, or support. Then by using the classified characters, the model randomly generates a team and classifies how quality the team is. I built it with Python, SciPy, and Scikit-learn. This project demonstrates my ability to utilize machine learning libraries, classify large datasets, and generate and interpret a dendrogram. You can check out the repository [here](https://github.com/md-45/Genshin_ML/tree/main).
 
 ### [Computer Science IA](https://replit.com/@md-4516/IA-Cover-Page)
 
