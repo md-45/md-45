@@ -7,7 +7,7 @@
 
 ## About Me 🚀
 
-I'm a first-year data science student at the University of Chicago with experience in data visualization and machine learning. As a student, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. Outside of programming, I love learning languages, martial arts, guitar, and graphic design.
+I'm a second-year data science student at the University of Chicago with experience in data visualization and machine learning. As a student, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. Outside of programming, I love learning languages, martial arts, guitar, and graphic design.
 
 - 👨‍🎓 I'm a **Second Year UChicago Student**
 - 🔭 Working on: Gamified learning platform
