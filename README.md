@@ -2,29 +2,29 @@
 
 <a href="https://www.linkedin.com/in/merina-diaz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://replit.com/@md-4516/Merina-Ds-Personal-Website?v=1" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/1a9b97f8-de6b-40fe-beaf-ed43a3346042" height="40" width="40" /></a>
+<a href="https://merina-ds-personal-website--md-4516.replit.app/index.html" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/1a9b97f8-de6b-40fe-beaf-ed43a3346042" height="40" width="40" /></a>
 &nbsp;
 
 ## About Me 🚀
 
-I'm a second-year data science student at the University of Chicago with experience in data visualization and machine learning. As a student, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. Outside of programming, I love learning languages, martial arts, guitar, and graphic design.
+I'm a third-year data science student at the University of Chicago with experience in data visualization and machine learning. As a student, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. Outside of programming, I love learning languages, martial arts, guitar, and graphic design.
 
-- 👨‍🎓 I'm a **Second Year UChicago Student**
-- 🔭 Working on: Gamified learning platform
-- 🌱 Currently learning: R, Swift, and hierarchical clustering
+- 👨‍🎓 I'm a **Third Year UChicago Student**
+- 🔭 Working on: Global music app based on Ethnologue dataset
+- 🌱 Currently learning: SQL, web scraping, and Electron desktop apps
 - 🌍 Human Languages: French
 - 📫 How to reach me: merina.diaz@uchicago.edu
-- 📝 [Resume](https://drive.google.com/file/d/18sX3ECldmdhjbcPZRt7fTjHh6NvMGF2X/view?usp=sharing).
+- 📝 [Resume]().
 
 ## Featured Projects 💻
 
-### [Genshin Impact Team Classifier](https://replit.com/@md-4516/Genshin-ML)
+### [Genshin Impact Team Classifier](https://github.com/md-45/Genshin_ML)
 
 ![G_ML_hierarch](https://github.com/user-attachments/assets/7213ded0-bc5e-41a3-98f7-3c740421532d)
 
 **Genshin Impact Team Classifier** is a a machine learning classifier that takes character data from the 2020 video game, Genshin Impact and classifies characters as a DPS, sub DPS, or support. Then by using the classified characters, the model randomly generates a team and classifies how quality the team is. I built it with Python, SciPy, and Scikit-learn. This project demonstrates my ability to utilize machine learning libraries, classify large datasets, and generate and interpret a dendrogram. You can check out the repository [here](https://github.com/md-45/Genshin_ML/tree/main).
 
-### [Computer Science IA](https://replit.com/@md-4516/IA-Cover-Page)
+### [Computer Science IA](https://github.com/md-45/CS_IA)
 
 ![Data_Structures](https://github.com/user-attachments/assets/25250c26-bcbf-4d2e-b958-4e4e3d769666)
 
