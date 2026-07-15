@@ -14,7 +14,7 @@ I'm a third-year data science student at the University of Chicago with experien
 - 🌱 Currently learning: SQL, web scraping, and Electron desktop apps
 - 🌍 Human Languages: French
 - 📫 How to reach me: merina.diaz@uchicago.edu
-- 📝 [Resume](https://drive.google.com/file/d/18_kn-eIrr-Z6teIUZAaXaSXR-QYc9iqN/view?usp=drive_link)
+- 📝 [Resume](https://drive.google.com/file/d/18_kn-eIrr-Z6teIUZAaXaSXR-QYc9iqN/view?usp=sharing)
 
 ## Featured Projects 💻
 
@@ -61,7 +61,7 @@ I'm a third-year data science student at the University of Chicago with experien
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+    <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"></a>
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
 </p>
