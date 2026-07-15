@@ -18,11 +18,17 @@ I'm a third-year data science student at the University of Chicago with experien
 
 ## Featured Projects 💻
 
+### [DATA 25900 AI Music Similarity Analysis](https://github.com/md-45/group-project)
+
+![Data_Structures](https://github.com/user-attachments/assets/25250c26-bcbf-4d2e-b958-4e4e3d769666)
+
+**DATA 25900 AI Music Similarity Analysis** is a group project from my data ethics class where I conducted an analysis of the audio features in AI-generated (Suno) training songs, AI-generated testing songs, Spotify training songs, and a control group of Spotify testing songs to see which groups were most similar to each other. I also generated visualizations and documented the entire process to fulfill the requirements of the project. I built it with Python (Librosa, sci-kit learn, MatPlotLib, Pandas, NumPy, and Seaborn). This project demonstrates my ability to conduct audio analysis, derive comparative statistics, and understand the ethical implications of AI in creative industries. You can check out the repository [here](https://github.com/md-45/group-project/tree/main).
+
 ### [Genshin Impact Team Classifier](https://github.com/md-45/Genshin_ML)
 
 ![G_ML_hierarch](https://github.com/user-attachments/assets/7213ded0-bc5e-41a3-98f7-3c740421532d)
 
-**Genshin Impact Team Classifier** is a a machine learning classifier that takes character data from the 2020 video game, Genshin Impact and classifies characters as a DPS, sub DPS, or support. Then by using the classified characters, the model randomly generates a team and classifies how quality the team is. I built it with Python, SciPy, and Scikit-learn. This project demonstrates my ability to utilize machine learning libraries, classify large datasets, and generate and interpret a dendrogram. You can check out the repository [here](https://github.com/md-45/Genshin_ML/tree/main).
+**Genshin Impact Team Classifier** is a a machine learning classifier that takes character data from the 2020 video game, Genshin Impact and classifies characters as a DPS, sub DPS, or support. Then by using the classified characters, the model randomly generates a team and classifies how quality the team is. I built it with Python (SciPy and scikit-learn). This project demonstrates my ability to utilize machine learning libraries, classify large datasets, and generate and interpret a dendrogram. You can check out the repository [here](https://github.com/md-45/Genshin_ML/tree/main).
 
 ### [Computer Science IA](https://github.com/md-45/CS_IA)
 
