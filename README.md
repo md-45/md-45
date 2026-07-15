@@ -20,13 +20,13 @@ I'm a third-year data science student at the University of Chicago with experien
 
 ### [DATA 22100 Global Air Quality Prediction](https://github.com/md-45/DATA221_final_project)
 
-![Similarity Plots](file:///C:/Users/merin/Downloads/DATA259_similarity_viol.png)
+![Country Clusters]![Uploading DATA221_country_clusters.png…]()
 
-**DATA 25900 AI Music Similarity Analysis** is a group project from my data ethics class where I conducted an analysis of the audio features in AI-generated (Suno) training songs, AI-generated testing songs, Spotify training songs, and a control group of Spotify testing songs to see which groups were most similar to each other. I also generated visualizations and documented the entire process to fulfill the requirements of the project. I built it with Python (Librosa, sci-kit learn, MatPlotLib, Pandas, NumPy, and Seaborn). This project demonstrates my ability to conduct audio analysis, derive comparative statistics, and understand the ethical implications of AI in creative industries. You can check out the repository [here](https://github.com/md-45/group-project/tree/main).
+**DATA 22100 Global Air Quality Prediction** is a final project from my intro to machine learning class where I predicted air quality by country based on sustainability indicators from the World Bank Group and a standardized Urban Sustainability Index that I calculated. I built it with Python (sci-kit learn, MatPlotLib, Pandas, NumPy, and Seaborn). This project demonstrates my ability to data wrangle, evaluate prediction methods, and build simple neural networks. You can check out the repository [here](https://github.com/md-45/DATA221_final_project/tree/main).
 
 ### [DATA 25900 AI Music Similarity Analysis](https://github.com/md-45/group-project)
 
-![Similarity Plots](assets/DATA259_similarity_viol.png)
+![Similarity Plots]<img width="1591" height="1190" alt="DATA259_similarity_viol" src="https://github.com/user-attachments/assets/82d48d48-03af-4f97-b7c1-8626852aae32" />
 
 **DATA 25900 AI Music Similarity Analysis** is a group project from my data ethics class where I conducted an analysis of the audio features in AI-generated (Suno) training songs, AI-generated testing songs, Spotify training songs, and a control group of Spotify testing songs to see which groups were most similar to each other. I also generated visualizations and documented the entire process to fulfill the requirements of the project. I built it with Python (Librosa, sci-kit learn, MatPlotLib, Pandas, NumPy, and Seaborn). This project demonstrates my ability to conduct audio analysis, derive comparative statistics, and understand the ethical implications of AI in creative industries. You can check out the repository [here](https://github.com/md-45/group-project/tree/main).
 
