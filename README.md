@@ -18,9 +18,15 @@ I'm a third-year data science student at the University of Chicago with experien
 
 ## Featured Projects 💻
 
+### [DATA 22100 Global Air Quality Prediction](https://github.com/md-45/DATA221_final_project)
+
+![Similarity Plots](file:///C:/Users/merin/Downloads/DATA259_similarity_viol.png)
+
+**DATA 25900 AI Music Similarity Analysis** is a group project from my data ethics class where I conducted an analysis of the audio features in AI-generated (Suno) training songs, AI-generated testing songs, Spotify training songs, and a control group of Spotify testing songs to see which groups were most similar to each other. I also generated visualizations and documented the entire process to fulfill the requirements of the project. I built it with Python (Librosa, sci-kit learn, MatPlotLib, Pandas, NumPy, and Seaborn). This project demonstrates my ability to conduct audio analysis, derive comparative statistics, and understand the ethical implications of AI in creative industries. You can check out the repository [here](https://github.com/md-45/group-project/tree/main).
+
 ### [DATA 25900 AI Music Similarity Analysis](https://github.com/md-45/group-project)
 
-![Data_Structures](https://github.com/user-attachments/assets/25250c26-bcbf-4d2e-b958-4e4e3d769666)
+![Similarity Plots](file:///C:/Users/merin/Downloads/DATA259_similarity_viol.png)
 
 **DATA 25900 AI Music Similarity Analysis** is a group project from my data ethics class where I conducted an analysis of the audio features in AI-generated (Suno) training songs, AI-generated testing songs, Spotify training songs, and a control group of Spotify testing songs to see which groups were most similar to each other. I also generated visualizations and documented the entire process to fulfill the requirements of the project. I built it with Python (Librosa, sci-kit learn, MatPlotLib, Pandas, NumPy, and Seaborn). This project demonstrates my ability to conduct audio analysis, derive comparative statistics, and understand the ethical implications of AI in creative industries. You can check out the repository [here](https://github.com/md-45/group-project/tree/main).
 
