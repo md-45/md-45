@@ -70,7 +70,7 @@ I'm a third-year data science student at the University of Chicago with experien
 
 <p>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://simpleicons.org/badge/postgresql-0D101E.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/postgresql-0D101E.svg?logo=postgresql&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
