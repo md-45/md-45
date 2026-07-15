@@ -14,7 +14,7 @@ I'm a third-year data science student at the University of Chicago with experien
 - 🌱 Currently learning: SQL, web scraping, and Electron desktop apps
 - 🌍 Human Languages: French
 - 📫 How to reach me: merina.diaz@uchicago.edu
-- 📝 [Resume]().
+- 📝 [Resume](file:///C:/Users/merin/OneDrive/Desktop/Merina_Diaz_DS_Resume_2026.pdf).
 
 ## Featured Projects 💻
 
