@@ -52,25 +52,32 @@ I'm a third-year data science student at the University of Chicago with experien
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a> 
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/react-0D101E.svg?logo=react&logoColor=white"></a> 
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/postgresql-0D101E.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
+     <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-013243.svg?logo=npm&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-FF6F00?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
     <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"></a>
+     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-654FF0?style=for-the-badge&logo=Seaborn&logoColor=white"></a>
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+     <a href="#"><img alt="tidyverse" src="https://img.shields.io/badge/tidyverse-FF6F00?style=for-the-badge&logo=tidyverse&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-0D101E.svg?logo=AWS&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/postgresql-0D101E.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-0D101E.svg?logo=Snowflake&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
