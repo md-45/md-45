@@ -7,7 +7,7 @@
 
 ## About Me 🚀
 
-I'm a third-year data science student at the University of Chicago with experience in data visualization and machine learning. As a student, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. Outside of programming, I love learning languages, martial arts, guitar, and graphic design.
+I'm a rising third-year data science student at the University of Chicago with experience in data visualization and machine learning. As a student, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. Outside of programming, I love learning languages, martial arts, guitar, and graphic design.
 
 - 👨‍🎓 I'm a **Third Year UChicago Student**
 - 🔭 Working on: Global music app based on Ethnologue dataset
