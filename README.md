@@ -62,7 +62,7 @@ I'm a rising third-year data science student at the University of Chicago with e
 
 <p>
      <a href="#"><img alt="ddgs" src="https://img.shields.io/badge/ddgs-%2300C4CC.svg?&style=for-the-badge&logo=ddgs&logoColor=white"></a>
-    <a href="#"><img alt="SerpAPI" src="https://img.shields.io/badge/ddgs-%2300C4CC.svg?&style=for-the-badge&logo=SerpAPI&logoColor=white"></a>
+    <a href="#"><img alt="SerpAPI" src="https://img.shields.io/badge/SerpAPI-%2300C4CC.svg?&style=for-the-badge&logo=SerpAPI&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
