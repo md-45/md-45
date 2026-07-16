@@ -58,15 +58,26 @@ I'm a rising third-year data science student at the University of Chicago with e
     <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
 </p>
 
+### :gear: APIs 
+
+<p>
+     <a href="#"><img alt="ddgs" src="https://img.shields.io/badge/ddgs-%2300C4CC.svg?&style=for-the-badge&logo=ddgs&logoColor=white"></a>
+    <a href="#"><img alt="SerpAPI" src="https://img.shields.io/badge/ddgs-%2300C4CC.svg?&style=for-the-badge&logo=SerpAPI&logoColor=white"></a>
+</p>
+
 ### 🧰 Frameworks and libraries
 
 <p>
-     <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-013243.svg?logo=npm&logoColor=white"></a>
+    <a href="#"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-FF6F00?style=for-the-badge&logo=BeautifulSoup&logoColor=white"></a> 
+    <a href="#"><img alt="ggplot" src="https://img.shields.io/badge/ggplot-FF6F00?style=for-the-badge&logo=tidyverse&logoColor=white"></a> 
+    <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-013243.svg?logo=npm&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-FF6F00?style=for-the-badge&logo=Playwright&logoColor=white"></a> 
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-FF6F00?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
     <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"></a>
+    <a href="#"><img alt="Scrapy" src="https://img.shields.io/badge/Scrapy-654FF0?style=for-the-badge&logo=Scrapy&logoColor=white"></a>
      <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-654FF0?style=for-the-badge&logo=Seaborn&logoColor=white"></a>
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
      <a href="#"><img alt="tidyverse" src="https://img.shields.io/badge/tidyverse-FF6F00?style=for-the-badge&logo=tidyverse&logoColor=white"></a>
